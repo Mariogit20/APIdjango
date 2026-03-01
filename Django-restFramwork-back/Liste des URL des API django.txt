@@ -1,0 +1,14 @@
+
+1) Api Root :
+"produits": "http://127.0.0.1:8000/produits/"
+http://127.0.0.1:8000/
+
+2) Produit List :
+http://127.0.0.1:8000/produits/
+
+3) Contact List :
+http://127.0.0.1:8000/contact/
+
+4) Slider List :
+http://127.0.0.1:8000/sliders/
+
