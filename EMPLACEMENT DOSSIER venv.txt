@@ -1,0 +1,7 @@
+Le DOSSIER    venv   SE ROUVE DANS :
+
+APIdjango\Django-restFramwork-back
+
+C'est-à-dire que l'on devrait avoir après avoir exécuter dans le TERMINAL ( CTRL J ) de VISUAL STUDIO CODE VSCode        pip install -r requirements.txt       permettant de CREER LE DOSSIER     venv     A PARTIR DU FICHIER       requirements.txt         :::::::::::::::::::::
+
+D:\PYTHON DJANGO HOPES\github21\APIdjango\Django-restFramwork-back\venv
